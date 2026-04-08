@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "PostHouse-JOURNEYS.github.io/China-Stay-Scout",
+    baseUrl: "PostHouse-JOURNEYS.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
